@@ -2,16 +2,7 @@
 
 ## Greetings of the Day!
 
-Welcome to ArtSpace, a virtual gallery designed to connect artists with art enthusiasts. As part of our Skill Development Project (SDP) at KL University, we’ve developed this platform to showcase artistic talent and bring art closer to everyone.
-
-## Contents of the README
-
-- [Introduction](#introduction)
-- [Modules](#modules)
-- [Technologies Used](#technologies-used)
-- [Conclusion](#conclusion)
-
-## Introduction
+Welcome to ArtSpace, a virtual gallery designed to connect artists with art enthusiasts. 
 
 ArtSpace is an online gallery platform that serves as a digital haven for art. This platform enables artists to showcase and sell their masterpieces, while providing art lovers a space to explore and purchase unique works of art.
 
